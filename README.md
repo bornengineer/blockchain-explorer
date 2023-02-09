@@ -1,4 +1,4 @@
-# Blockchain-explorer
+# blockchain-explorer
 
 A Decentralized App (Dapp) to fetch blocks and transactions from the Ethereum chain, and we can also connect the Metamask wallet with it.
 
@@ -16,4 +16,4 @@ to discuss what you would like to change.
 
 
 #### Link of the App
-[blockchaine explorer](https://blockchain-explorer1.netlify.app/)
+[blockchain explorer](https://blockchain-explorer1.netlify.app/)
