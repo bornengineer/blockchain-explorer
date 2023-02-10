@@ -1,9 +1,9 @@
 import { Stack, Box, Container, CircularProgress } from '@mui/material';
-import Wallet from './components/Wallet';
+import Wallet from './Components/Wallet';
 import { useEffect, useState } from 'react'
 import Web3 from 'web3';
 import './App.css'
-import Search from './components/Search';
+import Search from './Components/Search';
 import Navbar from './Components/Navbar';
 import Result from './Components/Result';
 import Heading from './Components/Heading';
